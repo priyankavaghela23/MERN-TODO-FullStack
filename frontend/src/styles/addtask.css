@@ -42,3 +42,9 @@ button{
 button:hover{
     background-color: blue
 }
+
+.link-nav{
+    text-decoration: none;
+    margin-top: 15px;
+    display: block;
+}

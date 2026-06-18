@@ -4,7 +4,7 @@
     list-style: none;
     padding: 0;
     margin: 20px;
-    grid-template-columns: 50px 1fr 2fr 200px;
+    grid-template-columns: 100px 50px 1fr 2fr 200px;
 }
 .list-header{
     font-weight: bold;
@@ -50,4 +50,15 @@
 .update-item:hover{
     background-color: rgb(10, 190, 10);
 }
+
+.delete-multiple{
+    width: 100px;
+    margin-left: 20px;
+    
+}
+
+/* .list-container{
+    margin-left: 20px;
+    margin-right: 20px;
+} */
 
